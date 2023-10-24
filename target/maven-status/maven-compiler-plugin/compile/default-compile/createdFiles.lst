@@ -1,0 +1,7 @@
+com\jihen\produits\restcontrollers\ProduitRESTController.class
+com\jihen\produits\services\ProduitService.class
+com\jihen\produits\ProduitsApplication.class
+com\jihen\produits\repos\ProduitRepository.class
+com\jihen\produits\entities\Categorie.class
+com\jihen\produits\entities\produit.class
+com\jihen\produits\services\ProduitServiceImpl.class
